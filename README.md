@@ -16,7 +16,8 @@ Hello, Nofar
 Test1
 ``` 
 
-khkk
+## Triggers
+Use triggers to automatically start pipelines.
 
   
    
