@@ -19,7 +19,7 @@ Test1
 ## Triggers
 Use triggers to automatically start pipelines.
 
-Conditional start conditions - 1
+Conditional start conditions - 2
   
    
    
